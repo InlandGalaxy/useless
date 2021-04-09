@@ -11,7 +11,7 @@ This is my voice assistant built on top of MyCroft (PiCroft) called like the dan
 ## J.I.S.O.O.
 <img src="https://user-images.githubusercontent.com/65157905/113872563-46a41d00-97b4-11eb-959d-00f8c5e717d1.png" width="50" height="50"> 
 
-My custom version of Windows 10 Pro 20H2 made with NTLite. It's called like the cute Kim Ji-Soo of BLACKPINK.
+My custom version of Windows 10 Pro 20H2 made with NTLite. It's called like the cute Kim Ji-soo of BLACKPINK.
 
 <img src="https://user-images.githubusercontent.com/65157905/114159586-3b70fe80-9926-11eb-91db-db7f9b295ed7.jpg" width="200" height="300">
 
