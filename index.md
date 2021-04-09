@@ -15,4 +15,5 @@ My custom version of Windows 10 Pro 20H2 made with NTLite. It's called like the 
 
 ## GalaxySuit(Legacy)
 <img src="https://user-images.githubusercontent.com/65157905/114159899-960a5a80-9926-11eb-80c6-ff0a0061435d.png" width="100" height="100">
+
 My office suit made completly in Python. At the moment it's not my priority but will get a update someday in the future.
